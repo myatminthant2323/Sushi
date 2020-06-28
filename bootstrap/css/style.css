@@ -11,6 +11,13 @@ a:hover {
 	color: red;
 }
 
+#price_badge {
+	position: absolute;
+	top: 2%;
+	left: 2%;
+	display: inline-block;
+}
+
 #noOfOrder {
 	width: 20px;
 	padding: 3px 7px;
