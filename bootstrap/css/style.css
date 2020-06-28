@@ -1,0 +1,23 @@
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	color: #fff;
+	background-color: #dd4145;
+}
+a {
+	color: red;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
+
+#noOfOrder {
+	width: 20px;
+	padding: 3px 7px;
+	border: none;
+}
+
+.bld > h6{
+	font-weight: bold;
+	text-align: center;
+}
